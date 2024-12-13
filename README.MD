@@ -13,9 +13,9 @@ This repo is designed for Jr./Mid Level System Administrators(SA). All topics wi
     * if not watch this [video](https://www.youtube.com/watch?v=aGMYBsBvRWs)
 
 # Overview Sections
-1. What is gitlab 
-2. Understanding Kubernetes
-3. What is helm
-4. Security Considerations
-5. Troubeshooting
-> best practices can be found here ...
+1. [What is gitlab](./what-is-gitlab.MD)
+2. [Understanding Kubernetes](./what-is-kubernetes.MD)
+3. [What is helm](./what-is-helm.MD)
+4. [Security Considerations](./what-is-security.MD)
+5. [Troubeshooting](./what-is-troubleshooting.MD)
+> best practices can be found [here](./what-is-best-practice.MD)
