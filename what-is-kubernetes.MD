@@ -62,7 +62,7 @@ K8's can use just one file like this, with the deliminator '**---**' as the sepe
 
 BUT, it's better to seperate these into two files in most cases, like this...
 
-### Two Object Thingy's In Two Files
+### Two Object Resources In Two Files
 FILE 1
 ```
     apiVersion: apps/v1
