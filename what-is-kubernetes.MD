@@ -20,9 +20,9 @@ Okay, did you do that, got it? cool.
 
 This depands...
 
-K8's can use just one file like this, with the '**---**' as the seperator for certain object thingy's:
+K8's can use just one file like this, with the deliminator '**---**' as the seperator for certain resource:
 
-### Two Object Thingy's In One File
+### Two Object Resources In One File
 ```
     apiVersion: apps/v1
     kind: Deployment
@@ -104,13 +104,13 @@ FILE 2
 
 Now I know, you are very confused. Why create two files when you can have one. Well, now lets have a little chat about Kuberenetes diabolical ways, and how it does buisness. 
 
-## K8 Words(thingy's)
+## K8 Words(resources)
 
-To better underantd how these files interact with K8's,you must underatnd the world of Kubernetes has it's own language. If you are not familier with these terms or thingy's as I refer to them, just refrance the below real quick:
+To better underantd how these files interact with K8's,you must underatnd the world of Kubernetes has it's own language. If you are not familier with these terms or resources, as I refer to them, just refrance the below real quick:
 
 - Objects = Mostly the applications themselves (think pods)
 
-- Services = Mostly Networking Related thingy's (how to access the applications)
+- Services = Mostly Networking Related resources (how to access the applications)
 
 - Namespace = Groupings of items (think isolatation)
 
